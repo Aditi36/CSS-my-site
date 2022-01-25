@@ -53,6 +53,7 @@ a:hover {
 .my-image{
     width: 20%;
     padding-top: 30px;
+     border-radius : 50%;
 
 }
 
@@ -109,11 +110,13 @@ hr{
     width: 30%;
     float: left;
     margin-right: 20px;
+     border-radius : 60%;
   }
   .mern-img {
     width: 35%;
     float: right;
     margin-left: 20px;
+      border-radius : 60%;
   }
   
 
